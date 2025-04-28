@@ -1,6 +1,6 @@
-import java.util.Scanner;
-package com.example;
 
+package com.example;
+import java.util.Scanner;
 public class MainClas{
 
     public static void main(String[] args) {
